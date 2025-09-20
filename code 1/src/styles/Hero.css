@@ -1,0 +1,81 @@
+/* Hero.css */
+.hero-container {
+    height: 100vh;
+    background: url('../assets/ChatGPT\ Image\ Sep\ 19\,\ 2025\,\ 09_53_15\ PM.png') center/cover no-repeat;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-container::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, rgba(0,0,0,0.8), rgba(0,0,0,0.3));
+  }
+  
+  .hero-text {
+    position: relative;
+    text-align: center;
+    color: white;
+    max-width: 700px;
+    animation: fadeInUp 1.5s ease-in-out;
+  }
+  
+  .hero-text h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+  
+  .hero-text h1 span {
+    color: #f43f5e;
+  }
+  
+  .hero-text p {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: white;
+  }
+  .view-more{
+    margin-top: 2rem;
+    padding: 0.9rem 2.5rem;
+    font-size: 1.1rem;
+    background: linear-gradient(45deg, #f43f5e, #e11d48);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+  }
+  .hero-text button {
+    margin-top: 2rem;
+    padding: 0.8rem 2rem;
+    font-size: 1.1rem;
+    background: #f43f5e;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.3s ease, background 0.3s ease;
+  }
+  
+  .hero-text button:hover {
+    transform: scale(1.05);
+    background: #e11d48;
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

@@ -1,0 +1,145 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Push Up",
+      "bodyPart": "chest",
+      "target": "pectorals",
+      "equipment": "body weight",
+      "gifUrl": "https://media.tenor.com/1mQfzZ0LzLQAAAAd/push-up-exercise.gif",
+      "description": "Push-ups are a classic bodyweight exercise that strengthen the chest, shoulders, and triceps while engaging the core. They improve upper body stability, posture, and overall endurance.",
+      "steps": [
+        "Start in a high plank position with hands placed slightly wider than shoulder-width apart.",
+        "Keep your body in a straight line from head to heels.",
+        "Lower your body slowly until your chest nearly touches the floor.",
+        "Pause for a second at the bottom.",
+        "Push through your palms to return to the starting position.",
+        "Repeat for the desired number of reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=_l3ySVKYVJ8"]
+    },
+    {
+      "id": 2,
+      "name": "Bench Press",
+      "bodyPart": "chest",
+      "target": "pectorals",
+      "equipment": "barbell",
+      "gifUrl": "https://media.tenor.com/2kM1QYvPRvAAAAAd/bench-press-exercise.gif",
+      "description": "Bench press is a compound exercise that targets the chest, shoulders, and triceps. It helps build upper body strength and muscle mass.",
+      "steps": [
+        "Lie on a flat bench with feet firmly on the floor.",
+        "Grip the barbell slightly wider than shoulder-width apart.",
+        "Lower the bar slowly to touch your mid-chest.",
+        "Pause for a second.",
+        "Push the bar back up to the starting position, fully extending your arms.",
+        "Repeat for the desired number of reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=gRVjAtPip0Y"]
+    },
+    {
+      "id": 3,
+      "name": "Squat",
+      "bodyPart": "legs",
+      "target": "quadriceps",
+      "equipment": "body weight",
+      "gifUrl": "https://media.tenor.com/79pZ3tVytE0AAAAd/squat-exercise.gif",
+      "description": "Squats are a fundamental lower body exercise that strengthen the quadriceps, glutes, hamstrings, and core. They also improve balance and mobility.",
+      "steps": [
+        "Stand with feet shoulder-width apart, toes slightly pointing outwards.",
+        "Engage your core and keep your chest up.",
+        "Lower your hips back and down as if sitting in a chair until thighs are parallel to the floor.",
+        "Push through your heels to return to the standing position.",
+        "Repeat for the desired number of reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=aclHkVaku9U"]
+    },
+    {
+      "id": 4,
+      "name": "Lunges",
+      "bodyPart": "legs",
+      "target": "quadriceps",
+      "equipment": "body weight",
+      "gifUrl": "https://media.tenor.com/XxB9rh6U-TAAAAAd/lunge-exercise.gif",
+      "description": "Lunges strengthen the quadriceps, glutes, and hamstrings while improving balance and coordination.",
+      "steps": [
+        "Stand upright with feet together.",
+        "Step forward with one leg and lower your hips until both knees are at 90-degree angles.",
+        "Ensure the front knee stays above the ankle and does not pass the toes.",
+        "Push back through the front heel to return to starting position.",
+        "Alternate legs and repeat for desired reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=COKYKgQ8KR0"]
+    },
+    {
+      "id": 5,
+      "name": "Deadlift",
+      "bodyPart": "back",
+      "target": "lower back",
+      "equipment": "barbell",
+      "gifUrl": "https://media.tenor.com/YlYHg9KPTcAAAAAd/deadlift-exercise.gif",
+      "description": "Deadlifts strengthen the posterior chain, including the lower back, glutes, and hamstrings. They also improve core stability and posture.",
+      "steps": [
+        "Stand with feet hip-width apart with the barbell on the floor in front of you.",
+        "Bend at the hips and knees to grip the bar with hands shoulder-width apart.",
+        "Keep your back straight and chest up as you lift the bar by extending hips and knees.",
+        "Stand fully upright while holding the bar close to your body.",
+        "Lower the bar slowly back to the floor while maintaining a straight back.",
+        "Repeat for desired reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=op9kVnSso6Q"]
+    },
+    {
+      "id": 6,
+      "name": "Shoulder Press",
+      "bodyPart": "shoulders",
+      "target": "deltoids",
+      "equipment": "dumbbell",
+      "gifUrl": "https://media.tenor.com/8bGgT6GwV4EAAAAd/shoulder-press.gif",
+      "description": "The shoulder press targets the deltoids and helps build shoulder strength and stability.",
+      "steps": [
+        "Hold a dumbbell in each hand at shoulder height with palms facing forward.",
+        "Engage your core and keep your back straight.",
+        "Press the dumbbells upward until your arms are fully extended overhead.",
+        "Pause briefly at the top.",
+        "Lower the weights back to shoulder height slowly.",
+        "Repeat for desired reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=B-aVuyhvLHU"]
+    },
+    {
+      "id": 7,
+      "name": "Bicep Curl",
+      "bodyPart": "arms",
+      "target": "biceps",
+      "equipment": "dumbbell",
+      "gifUrl": "https://media.tenor.com/LoD7y7CBJHoAAAAd/bicep-curl.gif",
+      "description": "Bicep curls isolate and strengthen the biceps muscles, improving arm strength and appearance.",
+      "steps": [
+        "Stand upright with a dumbbell in each hand, palms facing forward.",
+        "Keep elbows close to your torso.",
+        "Curl the weights upward while contracting the biceps.",
+        "Pause at the top of the movement.",
+        "Slowly lower the dumbbells back to the starting position.",
+        "Repeat for desired reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=ykJmrZ5v0Oo"]
+    },
+    {
+      "id": 8,
+      "name": "Tricep Dip",
+      "bodyPart": "arms",
+      "target": "triceps",
+      "equipment": "body weight",
+      "gifUrl": "https://media.tenor.com/9IXrnnX5R3IAAAAd/tricep-dip.gif",
+      "description": "Tricep dips target the triceps using bodyweight, while also engaging the chest and shoulders.",
+      "steps": [
+        "Sit on a bench or chair and place your hands next to your hips.",
+        "Slide your hips forward off the bench, supporting your weight with your hands.",
+        "Lower your body until elbows reach 90 degrees.",
+        "Push back up to the starting position.",
+        "Repeat for desired reps."
+      ],
+      "videos": ["https://www.youtube.com/watch?v=0326dy_-CzM"]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+.exercise-details {
+  padding: 40px 5%;
+  font-family: 'Poppins', sans-serif;
+  color: #1c1c1c;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.exercise-details h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #111;
+}
+
+.exercise-main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+
+.exercise-info {
+  max-width: 600px;
+  background-color: #fff;
+  padding: 20px 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.exercise-info h3 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+  color: #333;
+}
+
+.exercise-info p {
+  margin: 8px 0;
+  line-height: 1.6;
+  font-size: 1rem;
+  color: #555;
+}
+
+.exercise-info ol {
+  padding-left: 25px;
+  margin: 10px 0;
+  color: #555;
+}
+
+.exercise-videos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 15px;
+  justify-content: center;
+}
+
+.exercise-videos iframe {
+  border-radius: 12px;
+  flex: 1 1 300px;
+  min-width: 280px;
+  max-width: 480px;
+  height: 270px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+.exercise-videos iframe:hover {
+  transform: scale(1.03);
+}
